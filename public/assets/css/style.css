@@ -1,7 +1,8 @@
 body{
     background-image: url('https://cdn3.vectorstock.com/i/1000x1000/26/77/burger-ingredients-set-on-white-background-vector-7402677.jpg');
 
-    background-size: 90%;
+    background-size: 100%;
+    background-repeat: no-repeat;
 
 }
 
